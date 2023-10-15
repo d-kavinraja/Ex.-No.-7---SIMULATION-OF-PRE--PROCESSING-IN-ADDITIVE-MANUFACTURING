@@ -1,6 +1,6 @@
 # Ex. No. 7 - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
 ### DATE: 
-## AIM:
+## AIM: 3.10.2023
 ### To simulate the Pre Processing for 3D printing.
 
 ## REQUIREMENTS:
@@ -45,8 +45,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/d-kavinraja/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119875375/3838ed2b-bacb-4e32-b717-5ee14d43db62)
+
+### Name: Kavinraja D
+### Register Number®️212222240047
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
